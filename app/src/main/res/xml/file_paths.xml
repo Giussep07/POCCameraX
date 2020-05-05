@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <cache-path
+        name="avatar"
+        path="avatars/" />
+    <cache-path
+        name="header"
+        path="headers/" />
+    <cache-path
+        name="conversation"
+        path="conversations/" />
+    <cache-path
+        name="chatBackground"
+        path="chatBackground/" />
+    <cache-path
+        name="Images"
+        path="Images/" />
+    <cache-path
+        name="Videos"
+        path="Videos/" />
+    <cache-path
+        name="Audios"
+        path="Audios/" />
+    <cache-path
+        name="Documentos"
+        path="Documentos/" />
+    <cache-path
+        name="Gifs"
+        path="Gifs/" />
+    <cache-path
+        name="fakeContact"
+        path="fakeContact/" />
+</paths>
